@@ -1,0 +1,56 @@
+{
+    "modules": [
+        {
+            "type": "header",
+            "title": {
+                "default": "Matias Obezzi"
+            },
+            "subtitle": {
+                "default": "Full Stack Developer",
+                "en": "Full Stack Developer",
+                "es": "Desarrollador Full Stack"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "title": {
+                "default": "Works",
+                "en": "Works",
+                "es": "Trabajos"
+            }
+        }
+    ],
+    "contact": [
+        {
+            "name": {
+                "default": "Email"
+            },
+            "icon": "fa-envelope",
+            "value": "mailto:matiasobezzi@gmail.com"
+        },
+        {
+            "name": {
+                "default": "LinkedIn"
+            },
+            "icon": "fa-linkedin",
+            "value": "https://linkedin.com/in/matias-obezzi/"
+        },
+        {
+            "name": {
+                "default": "Github"
+            },
+            "icon": "fa-github",
+            "value": "https://github.com/Matias-Obezzi"
+        },
+        {
+            "name": {
+                "default": "CV"
+            },
+            "icon": "fa-file",
+            "value": "/CV-Matias_Obezzi.pdf"
+        }
+    ]
+}
