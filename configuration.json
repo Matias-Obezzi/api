@@ -54,7 +54,7 @@
                 "default": "CV"
             },
             "icon": "fa-file",
-            "value": "/CV-Matias_Obezzi.pdf"
+            "value": "./CV-Matias_Obezzi.pdf"
         }
     ]
 }
