@@ -10,7 +10,9 @@
                 "en": "Full Stack Developer",
                 "es": "Desarrollador Full Stack"
             },
-            "background": "https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/625db280abfe23f79767ff88_Masthead%20Holiday%20Fantasy%20BG.jpg"
+            "background": {
+                "url": "https://assets.website-files.com/5c1bb997cb1dd611a0e6c8ce/625db280abfe23f79767ff88_Masthead%20Holiday%20Fantasy%20BG.jpg"
+            }
         },
         {
             "type": "divider"
